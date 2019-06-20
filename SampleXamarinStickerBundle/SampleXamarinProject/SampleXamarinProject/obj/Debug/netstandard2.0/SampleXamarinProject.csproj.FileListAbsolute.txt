@@ -1,0 +1,12 @@
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\bin\Debug\netstandard2.0\SampleXamarinProject.deps.json
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\bin\Debug\netstandard2.0\SampleXamarinProject.dll
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\bin\Debug\netstandard2.0\SampleXamarinProject.pdb
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\SampleXamarinProject.csprojAssemblyReference.cache
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\SampleXamarinProject.csproj.CoreCompileInputs.cache
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\SampleXamarinProject.AssemblyInfoInputs.cache
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\SampleXamarinProject.AssemblyInfo.cs
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\SampleXamarinProject.dll
+C:\Dev\sample-xamarin-sticker-bundle\SampleXamarinStickerBundle\SampleXamarinProject\SampleXamarinProject\obj\Debug\netstandard2.0\SampleXamarinProject.pdb

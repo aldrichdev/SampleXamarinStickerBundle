@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Release\ibtool\MainInterface.storyboardc\ArcherStickersViewController.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/ArcherStickersViewController.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Release/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Release\ibtool\MainInterface.storyboardc\Info.plist">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Release/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Release\ibtool\MainInterface.storyboardc\ObA-dk-sSI-view-zMn-AG-sqS.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/ObA-dk-sSI-view-zMn-AG-sqS.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Release/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Release\ibtool\MainInterface.storyboardc\UIViewController-ObA-dk-sSI.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/UIViewController-ObA-dk-sSI.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Release/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Release\ibtool\MainInterface.storyboardc\kmd-6I-dGt-view-Plx-tv-iB2.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/kmd-6I-dGt-view-Plx-tv-iB2.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Release/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

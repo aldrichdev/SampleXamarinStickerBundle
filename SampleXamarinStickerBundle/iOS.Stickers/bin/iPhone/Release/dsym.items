@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="Archerisms.iOS.Stickers.appex">
+      <CompiledArchitectures>ARM64</CompiledArchitectures>
+      <NativeExecutable>Archerisms.iOS.Stickers</NativeExecutable>
+      <NoSymbolStrip>False</NoSymbolStrip>
+      <SymbolsList>\Users\paulaldrich\Library\Caches\Xamarin\mtbs\builds\Archerisms.iOS.Stickers\e924fafed92fde1093edcef4a61f8248\obj\iPhone\Release\mtouch-symbols.list</SymbolsList>
+      <NoDSymUtil>false</NoDSymUtil>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>
