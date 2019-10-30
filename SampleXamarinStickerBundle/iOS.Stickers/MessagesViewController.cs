@@ -5,9 +5,9 @@ using Foundation;
 using UIKit;
 using System.Diagnostics;
 
-namespace Archerisms.iOS.Stickers
+namespace Xamarin.iOS.Stickers
 {
-	public partial class MessagesViewController : MSMessagesAppViewController, IArcherStickersViewControllerDelegate {
+	public partial class MessagesViewController : MSMessagesAppViewController, IXamarinStickersViewControllerDelegate {
 		public MessagesViewController (IntPtr handle) : base (handle) { }
 
 		public override void WillBecomeActive (MSConversation conversation)
@@ -31,7 +31,7 @@ namespace Archerisms.iOS.Stickers
 		void PresentViewController (MSConversation conversation, MSMessagesAppPresentationStyle presentationStyle)
 		{
             // For both Compact and Expanded presentation styles, show the list of stickers.
-			UIViewController controller = InstantiateArcherStickersController();
+			UIViewController controller = InstantiateXamarinStickersController();
 
 			foreach (var child in ChildViewControllers) {
 				child.WillMoveToParentViewController (null);
@@ -52,18 +52,18 @@ namespace Archerisms.iOS.Stickers
 			controller.DidMoveToParentViewController (this);
 		}
 
-		UIViewController InstantiateArcherStickersController ()
+		UIViewController InstantiateXamarinStickersController ()
 		{
-			// Instantiate a `ArcherStickersViewController` and present it.
-			var controller = Storyboard.InstantiateViewController (ArcherStickersViewController.StoryboardIdentifier) as ArcherStickersViewController;
+			// Instantiate a `XamarinStickersViewController` and present it.
+			var controller = Storyboard.InstantiateViewController (XamarinStickersViewController.StoryboardIdentifier) as XamarinStickersViewController;
 			if (controller == null)
-				throw new Exception ("Unable to instantiate an ArcherStickersViewController from the storyboard");
+				throw new Exception ("Unable to instantiate an XamarinStickersViewController from the storyboard");
 
 			controller.Builder = this;
 			return controller;
 		}
 
-		public void DidSelectAdd (ArcherStickersViewController controller)
+		public void DidSelectAdd (XamarinStickersViewController controller)
 		{
 			Request (MSMessagesAppPresentationStyle.Expanded);
 		}

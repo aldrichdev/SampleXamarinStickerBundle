@@ -112,7 +112,9 @@
     <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Contents.json">
       <Visible>false</Visible>
     </ImageAsset>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Contents.json" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Contents.json">
+      <Visible>false</Visible>
+    </ImageAsset>
     <None Include="Info.plist" />
     <None Include="Entitlements.plist" />
     <None Include="packages.config" />
@@ -125,78 +127,78 @@
     <Compile Include="MessagesViewController.designer.cs">
       <DependentUpon>MessagesViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="ArcherStickersViewController.cs" />
-    <Compile Include="ArcherStickersViewController.designer.cs">
-      <DependentUpon>ArcherStickersViewController.cs</DependentUpon>
+    <Compile Include="XamarinStickersViewController.cs" />
+    <Compile Include="XamarinStickersViewController.designer.cs">
+      <DependentUpon>XamarinStickersViewController.cs</DependentUpon>
     </Compile>
-    <Compile Include="ArcherStickerCell.cs" />
-    <Compile Include="ArcherStickerCell.designer.cs">
-      <DependentUpon>ArcherStickerCell.cs</DependentUpon>
+    <Compile Include="XamarinStickerCell.cs" />
+    <Compile Include="XamarinStickerCell.designer.cs">
+      <DependentUpon>XamarinStickerCell.cs</DependentUpon>
     </Compile>
-    <Compile Include="IArcherStickersViewControllerDelegate.cs" />
+    <Compile Include="IXamarinStickersViewControllerDelegate.cs" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ARCHER_Archer-Steering-Spaceship.gif" />
+    <BundleResource Include="Resources\Xamarin_Xamarin-Steering-Spaceship.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ARCHER_Cheryl-Supervisor.gif" />
+    <BundleResource Include="Resources\Xamarin_Cheryl-Supervisor.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ARCHER_Kreiger_Sneaky-Alien.gif" />
+    <BundleResource Include="Resources\Xamarin_Kreiger_Sneaky-Alien.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ARCHER_Krieger-JazzHands.gif" />
+    <BundleResource Include="Resources\Xamarin_Krieger-JazzHands.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ARCHER_Krieger-SmokeBomb.gif" />
+    <BundleResource Include="Resources\Xamarin_Krieger-SmokeBomb.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ARCHER_Lana_Frustrated.gif" />
+    <BundleResource Include="Resources\Xamarin_Lana_Frustrated.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ARCHER_Lana_Nope.gif" />
+    <BundleResource Include="Resources\Xamarin_Lana_Nope.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Archer2408x408.png" />
+    <BundleResource Include="Resources\Xamarin2408x408.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherCobraWhiskeyR2.png" />
+    <BundleResource Include="Resources\XamarinCobraWhiskeyR2.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\Archergasp1408x408.png" />
+    <BundleResource Include="Resources\Xamaringasp1408x408.png" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherHandsHeadR2.gif" />
+    <BundleResource Include="Resources\XamarinHandsHeadR2.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Cheryl_Finger-Licking-Good_R3.gif" />
+    <BundleResource Include="Resources\XamarinS9_Cheryl_Finger-Licking-Good_R3.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Cyril-Frustrated_R3.gif" />
+    <BundleResource Include="Resources\XamarinS9_Cyril-Frustrated_R3.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Cyril_Pointing_R4.gif" />
+    <BundleResource Include="Resources\XamarinS9_Cyril_Pointing_R4.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Krieger-Drinking_R1.gif" />
+    <BundleResource Include="Resources\XamarinS9_Krieger-Drinking_R1.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Krieger_Dancing_R4.gif" />
+    <BundleResource Include="Resources\XamarinS9_Krieger_Dancing_R4.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Lana_ShiftingEyes_R5.gif" />
+    <BundleResource Include="Resources\XamarinS9_Lana_ShiftingEyes_R5.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Malory-Dropping-Drink_R5.gif" />
+    <BundleResource Include="Resources\XamarinS9_Malory-Dropping-Drink_R5.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Pam_Show-Me-The-Money_R3.gif" />
+    <BundleResource Include="Resources\XamarinS9_Pam_Show-Me-The-Money_R3.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_Ray_A-HA_R3.gif" />
+    <BundleResource Include="Resources\XamarinS9_Ray_A-HA_R3.gif" />
   </ItemGroup>
   <ItemGroup>
-    <BundleResource Include="Resources\ArcherS9_SecretDocuments_Open-Close_R5.gif" />
+    <BundleResource Include="Resources\XamarinS9_SecretDocuments_Open-Close_R5.gif" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\cheryl2Excited408x408.png" />
@@ -700,40 +702,64 @@
     </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_1024x768.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_1024x768.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_120x90.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_120x90.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_134x100.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_134x100.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_148x110.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_148x110.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_180x135.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_180x135.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_54x40.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_54x40.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_58x58.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_58x58.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_58x581.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_58x581.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_64x48.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_64x48.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_81x60.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_81x60.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_87x87.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_87x87.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <ItemGroup>
-    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Archer_96x72.png" />
+    <ImageAsset Include="Assets.xcassets\iMessage App Icon.stickersiconset\Xamarin_96x72.png">
+      <Visible>false</Visible>
+    </ImageAsset>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.AppExtension.CSharp.targets" />
 </Project>

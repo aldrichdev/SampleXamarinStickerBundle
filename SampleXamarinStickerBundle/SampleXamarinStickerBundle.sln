@@ -7,9 +7,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleXamarinProject.Androi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleXamarinProject.iOS", "SampleXamarinProject\SampleXamarinProject.iOS\SampleXamarinProject.iOS.csproj", "{4A5337F1-CF5C-4ED3-B2C0-B69F4DCAAA41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleXamarinProject", "SampleXamarinProject\SampleXamarinProject\SampleXamarinProject.csproj", "{4A38CDF0-86AC-47C3-B3CF-0CA13D1F13A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SampleXamarinProject", "SampleXamarinProject\SampleXamarinProject\SampleXamarinProject.csproj", "{4A38CDF0-86AC-47C3-B3CF-0CA13D1F13A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archerisms.iOS.Stickers", "iOS.Stickers\Archerisms.iOS.Stickers.csproj", "{D9A6622E-5004-4346-B09A-2E35F3D866A8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.iOS.Stickers", "iOS.Stickers\Xamarin.iOS.Stickers.csproj", "{D9A6622E-5004-4346-B09A-2E35F3D866A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

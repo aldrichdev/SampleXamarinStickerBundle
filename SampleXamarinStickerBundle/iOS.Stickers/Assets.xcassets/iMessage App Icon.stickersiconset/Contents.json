@@ -4,78 +4,78 @@
       "scale": "2x",
       "size": "29x29",
       "idiom": "iphone",
-      "filename": "Archer_58x58.png"
+      "filename": "Xamarin_58x58.png"
     },
     {
       "scale": "3x",
       "size": "29x29",
       "idiom": "iphone",
-      "filename": "Archer_87x87.png"
+      "filename": "Xamarin_87x87.png"
     },
     {
       "scale": "2x",
       "size": "60x45",
       "idiom": "iphone",
-      "filename": "Archer_120x90.png"
+      "filename": "Xamarin_120x90.png"
     },
     {
       "scale": "3x",
       "size": "60x45",
       "idiom": "iphone",
-      "filename": "Archer_180x135.png"
+      "filename": "Xamarin_180x135.png"
     },
     {
       "scale": "2x",
       "size": "29x29",
       "idiom": "ipad",
-      "filename": "Archer_58x581.png"
+      "filename": "Xamarin_58x581.png"
     },
     {
       "scale": "2x",
       "size": "67x50",
       "idiom": "ipad",
-      "filename": "Archer_134x100.png"
+      "filename": "Xamarin_134x100.png"
     },
     {
       "scale": "2x",
       "size": "74x55",
       "idiom": "ipad",
-      "filename": "Archer_148x110.png"
+      "filename": "Xamarin_148x110.png"
     },
     {
       "platform": "ios",
       "scale": "2x",
       "size": "27x20",
       "idiom": "universal",
-      "filename": "Archer_54x40.png"
+      "filename": "Xamarin_54x40.png"
     },
     {
       "platform": "ios",
       "scale": "3x",
       "size": "27x20",
       "idiom": "universal",
-      "filename": "Archer_81x60.png"
+      "filename": "Xamarin_81x60.png"
     },
     {
       "platform": "ios",
       "scale": "2x",
       "size": "32x24",
       "idiom": "universal",
-      "filename": "Archer_64x48.png"
+      "filename": "Xamarin_64x48.png"
     },
     {
       "platform": "ios",
       "scale": "3x",
       "size": "32x24",
       "idiom": "universal",
-      "filename": "Archer_96x72.png"
+      "filename": "Xamarin_96x72.png"
     },
     {
       "platform": "ios",
       "scale": "1x",
       "size": "1024x768",
       "idiom": "ios-marketing",
-      "filename": "Archer_1024x768.png"
+      "filename": "Xamarin_1024x768.png"
     }
   ],
   "properties": {},

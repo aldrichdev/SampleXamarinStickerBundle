@@ -7,7 +7,7 @@
 using Foundation;
 using System.CodeDom.Compiler;
 
-namespace Archerisms.iOS.Stickers
+namespace Xamarin.iOS.Stickers
 {
 	[Register ("MessagesViewController")]
 	partial class MessagesViewController

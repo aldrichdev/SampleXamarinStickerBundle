@@ -7,10 +7,10 @@
 using Foundation;
 using System.CodeDom.Compiler;
 
-namespace Archerisms.iOS.Stickers
+namespace Xamarin.iOS.Stickers
 {
-	[Register ("ArcherStickersViewController")]
-	partial class ArcherStickersViewController
+	[Register ("XamarinStickersViewController")]
+	partial class XamarinStickersViewController
 	{
 		
 		void ReleaseDesignerOutlets ()

@@ -7,10 +7,10 @@
 using Foundation;
 using System.CodeDom.Compiler;
 
-namespace Archerisms.iOS.Stickers
+namespace Xamarin.iOS.Stickers
 {
-	[Register ("ArcherStickerCell")]
-	partial class ArcherStickerCell
+	[Register ("XamarinStickerCell")]
+	partial class XamarinStickerCell
 	{
 		[Outlet]
 		public Messages.MSStickerView StickerView { get; set; }

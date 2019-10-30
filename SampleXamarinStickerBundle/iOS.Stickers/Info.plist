@@ -5,11 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Archer Stickers</string>
+	<string>Xamarin Stickers</string>
 	<key>CFBundleName</key>
-	<string>ArcherStickersBundle</string>
+	<string>XamarinStickersBundle</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.fxnetworks.archerSoundBoard.ArcherStickersBundle</string>
+	<string>yourbundleidentifiergoeshere</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
